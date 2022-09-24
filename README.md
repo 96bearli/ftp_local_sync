@@ -17,5 +17,5 @@ if __name__ == '__main__':
     # sync
     this.whileTrue(sepTime=5)
     # once
-    # ftp.download_file(ftp_file_path=ftp_file_path, dst_file_path=dst_file_path)
+    # this.download_file(ftp_file_path=ftp_file_path, dst_file_path=dst_file_path)
 ```
